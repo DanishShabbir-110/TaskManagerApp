@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_tasks"
+        android:icon="@drawable/ic_assingment"
+        android:title="Tasks"/>
+    <item
+        android:id="@+id/nav_counter"
+        android:icon="@drawable/ic_counter"
+        android:title="Counter App"/>
+
+</menu>
